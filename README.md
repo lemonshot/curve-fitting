@@ -1,1 +1,1 @@
-# curve-fitting
+# Curve Fitter
